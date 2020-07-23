@@ -6,8 +6,8 @@
 // Guess in integers 
 // be answered in boolean.
 // Truer words not spoken
-// git change..
 
+// testing gitHub
 
 import java.util.*;
 
